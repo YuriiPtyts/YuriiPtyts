@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Yurii! 👋
 
-<!--
-**YuriiPtyts/YuriiPtyts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Technology student with a passion for software development, technical scripting, and building things from scratch—whether that's bridging code with hardware or getting my hands dirty with mechanical builds.
 
-Here are some ideas to get you started:
+- 🎓 **Current Focus:** Studying IT at the Polish-Japanese Academy of Information Technology (PJATK)
+- ⚙️ **Core Interests:** Backend development, automation scripting, IoT, and systems integration.
+- 🔧 **Side Quests:** Mechanical engineering (custom go-kart fabrication, engine tuning).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Java`, `JavaScript`, `Python`, `SQL`, `Bash` |
+| **Hardware & IoT** | `Microcontrollers`, `Sensors & Actuators`, `Hardware-Software Interfacing` |
+| **Environments & OS** | `macOS`, `Linux` |
+| **Tools & Infrastructure**| `Git`, `Docker`, `Relational Databases`, `Automation Scripting` |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YuriiPtyts&show_icons=true&theme=tokyonight&count_private=true" alt="Yurii's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiPtyts&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### 📂 What I'm Building
+
+- **Automation & Scripting:** Developing Bash and Python scripts for file management, data processing, and workflow optimization.
+- **IoT & Hardware Interfacing:** Exploring the intersection of software and physical hardware to create smart, automated systems.
+- **Mechanical Engineering:** Designing and fabricating custom mechanical projects from the ground up, including custom frame welding and small-engine tuning.
+
+---
+
+### 🤝 Connect with Me
+
+- ✉️ **Email:** [yuraptyts@gmail.com](mailto:yuraptyts@gmail.com)
