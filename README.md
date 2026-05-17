@@ -22,8 +22,8 @@ I am an Information Technology student with a passion for software development, 
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuriiPtyts&show_icons=true&theme=tokyonight&count_private=true" alt="Yurii's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiPtyts&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=YuriiPtyts&show_icons=true&theme=tokyonight&count_private=true" alt="Yurii's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=YuriiPtyts&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" height="180px" />
 </p>
 
 ---
