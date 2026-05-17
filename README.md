@@ -21,9 +21,7 @@ I am an Information Technology student with a passion for software development, 
 
 ### 📈 GitHub Stats
 
-![Yurii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuriiPtyts&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiPtyts&layout=compact&theme=tokyonight&hide_langs=html,css)>
-
+[![Yurii GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=YuriiPtyts)](https://github.com/YuriiPtyts/github-readme-stats-fast)
 ---
 
 ### 📂 What I'm Building
